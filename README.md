@@ -1,2 +1,2 @@
-# CodeAlpha_LanguageTranslationTool
+# LanguageTranslationTool
 Advanced Language Translation Tool
